@@ -10,25 +10,31 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+Bad visualization: <br>
+https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html <br>
+1. This visualization uses a weird spiral shape. It is uncommon and therefore hard to understand. <br>
+2. This visualization uses a spiralling to convey a panic sensation that the pandemic situation is spiralling downward and out of control. <br>
+3. The time should be a categorical variable. But this visualization displays time as a continuous variable. It is not clear how frequently the data it is presenting (every day, week, or month) and how the gaps between the times are filled as a continuous graph. <br>
 
-
-
-
-
-
+Good visualization: <br>
+http://wp_media-prod.s3.amazonaws.com/app/uploads/2015/09/24113017/Infographic_Design_Example_Digit.png <br>
+1. This data visualization chooses the right type of graph. It uses a line graph to show the trend over years. <br>
+2. This data visualization allows us to do comparisons between two different opinions. <br>
+3. This data visualization presents a neutral graph to show data honestly without adding emotion. <br>
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+Bad visualization: <br>
+https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html <br>
+1. This data visualization should use a line graph to show the trend of Covid cases over time. The x-axis should be year that is an ordered categorical variable and the y-axis should be the numbers of cases that is a quantitative variable. <br>
+2. This data visualization should clearly label the time intervals of the data points being collected. <br>
 
+Good visualization: <br>
+http://wp_media-prod.s3.amazonaws.com/app/uploads/2015/09/24113017/Infographic_Design_Example_Digit.png <br>
+1. This data visualization could use colours with better contrast to create a more vivid comparison. <br>
+2. This graph could add a y-axis to show the percentages. <br>
 
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
